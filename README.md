@@ -34,9 +34,6 @@ Model Training
 ## Known Bugs
 No Known Bugs
 
-## Technologies Used
-Jupyter Notebook
-
 ## Support and contact details
 To make a contribution to the code or any part of the project, 
 
