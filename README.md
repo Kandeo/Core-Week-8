@@ -15,7 +15,7 @@ Building a model that determines whether or not the patient's symptoms indicate 
 # Approaches
 
 1: Decision trees:
-The model should not use individual decision trees rather, at least 2 out of the 3 advanced models available: Random forests, Ada boosted trees, and gradient boosted trees.
+The model is to be built using at least 2 out of the 3 advanced models available: Random forests, Ada boosted trees, and gradient boosted trees.
 
 
 2: SVM:
