@@ -1,6 +1,4 @@
-# 
-# 
-# 
+
 # Thyroid Disease Predictive Analysis
 
 #### Data Science Project, December 2021
