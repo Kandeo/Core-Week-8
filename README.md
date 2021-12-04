@@ -12,7 +12,7 @@ The data collected focused on Thyroid patients. With the dataset provided, the f
 
 Building a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
-# Approaches
+## Approaches
 
 1: Decision trees:
 The model is to be built using at least 2 out of the 3 advanced models available: Random forests, Ada boosted trees, and gradient boosted trees.
